@@ -1,8 +1,10 @@
-# Dark theme for makehuman
-> A dark theme for [makehuman](http://www.makehumancommunity.org)
+# Dracula for [Makehuman](http://www.makehumancommunity.org)
+> A dark theme for [Makehuman](http://www.makehumancommunity.org)
 
 ![screenshot0.png](https://github.com/Apilonius64/makehuman-dark/blob/main/screenshots/screenshot0.png?raw=true)
-## How to install
+
+## Install
+<!--
 ### Step 1: Find your makehuman theme dictionary
 If you use windows, it may be something like `C:\Program Files\makehuman-community\makehuman\data\themes`.
 
@@ -11,6 +13,7 @@ Note: There may be a warning.
 
 ### Step 3: Select the makehuman theme in the settings
 ![screenshot1.png](https://github.com/Apilonius64/makehuman-dark/blob/main/screenshots/screenshot1.png?raw=true)
+-->
 
 All instructions can be found at the [INSTALL.md](https://github.com/Apilonius64/makehuman-dark/blob/main/INSTALL.md) file.
 
@@ -694,7 +697,7 @@ For more information on this, and how to apply and follow the GNU AGPL, see
 </details>
 
 ### Colors
-This theme uses a lot of colors from the official [dracula contributing guideline](https://draculatheme.com/contribute) and the [dracula-vscode-theme](https://github.com/dracula/visual-studio-code) which is provided under the MIT license:
+This theme uses a lot of colors from the [dracula-vscode-theme](https://github.com/dracula/visual-studio-code) which is provided under the MIT license:
 <details>
 <summary>License text</summary>
 
