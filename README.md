@@ -1,7 +1,7 @@
 # Dracula for [Makehuman](http://www.makehumancommunity.org)
 > A dark theme for [Makehuman](http://www.makehumancommunity.org)
 
-![screenshot0.png](https://github.com/Apilonius64/makehuman-dark/blob/main/screenshots/screenshot0.png?raw=true)
+![screenshot0.png](https://raw.githubusercontent.com/dracula/makehuman/main/screenshots/screenshot0.png)
 
 ## Install
 <!--
@@ -15,11 +15,11 @@ Note: There may be a warning.
 ![screenshot1.png](https://github.com/Apilonius64/makehuman-dark/blob/main/screenshots/screenshot1.png?raw=true)
 -->
 
-All instructions can be found at the [INSTALL.md](https://github.com/Apilonius64/makehuman-dark/blob/main/INSTALL.md) file.
+All instructions can be found at the [INSTALL.md](https://github.com/dracula/makehuman/blob/main/INSTALL.md) file.
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/Apilonius64/makehuman-dark/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/makehuman/graphs/contributors).
 
 [<img src="https://avatars.githubusercontent.com/u/103268036?v=4?v=3&s=70" width="70"/>](https://github.com/Apilonius64) |
 :---: |
@@ -727,4 +727,4 @@ SOFTWARE.
 </details>
 
 ## License
-[AGPL v3.0](https://github.com/Apilonius64/makehuman-dark/blob/main/LICENSE)
+[AGPL v3.0](https://github.com/dracula/makehuman/blob/main/LICENSE)
