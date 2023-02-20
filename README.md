@@ -1,33 +1,27 @@
 # Dracula for [Makehuman](http://www.makehumancommunity.org)
+
 > A dark theme for [Makehuman](http://www.makehumancommunity.org)
 
-![screenshot0.png](https://raw.githubusercontent.com/dracula/makehuman/main/screenshots/screenshot0.png)
+![screenshot.png](./screenshot.png)
 
 ## Install
-<!--
-### Step 1: Find your makehuman theme dictionary
-If you use windows, it may be something like `C:\Program Files\makehuman-community\makehuman\data\themes`.
 
-### Step 2: Replace `makehuman.mht` and `makehuman.qss` with the files in the `themes/` folder of the repository
-Note: There may be a warning.
-
-### Step 3: Select the makehuman theme in the settings
-![screenshot1.png](https://github.com/Apilonius64/makehuman-dark/blob/main/screenshots/screenshot1.png?raw=true)
--->
-
-All instructions can be found at the [INSTALL.md](https://github.com/dracula/makehuman/blob/main/INSTALL.md) file.
+All instructions can be found at [draculatheme.com/makehuman](https://draculatheme.com/makehuman).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/makehuman/graphs/contributors).
 
-[<img src="https://avatars.githubusercontent.com/u/103268036?v=4?v=3&s=70" width="70"/>](https://github.com/Apilonius64) |
-:---: |
-[Apilonius64](https://github.com/Apilonius64) |
+| [![Apilonius64](https://github.com/Apilonius64.png?size=100)](https://github.com/Apilonius64) |
+| --------------------------------------------------------------------------------------------- |
+| [Apilonius64](https://github.com/Apilonius64)                                                 |
 
 ## Credits
+
 ### Base
-This theme builds on the default makehuman theme which is created by Jonas Hauquier and provided under the AGPL3-license.
+
+This theme builds on the default **makehuman** theme which is created by Jonas Hauquier and provided under the **AGPL3-license**.
+
 <details>
 <summary>AGPL3-license</summary>
 
@@ -694,10 +688,13 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU AGPL, see
 <https://www.gnu.org/licenses/>.
 ```
+
 </details>
 
 ### Colors
+
 This theme uses a lot of colors from the [dracula-vscode-theme](https://github.com/dracula/visual-studio-code) which is provided under the MIT license:
+
 <details>
 <summary>License text</summary>
 
@@ -724,7 +721,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
 </details>
 
 ## License
+
 [AGPL v3.0](https://github.com/dracula/makehuman/blob/main/LICENSE)
