@@ -18,4 +18,4 @@ Download using the [GitHub .zip download](https://github.com/dracula/makehuman/a
 
 3. Restart makehuman and select the makehuman theme in the settings
 
-   ![Screenshot](./screenshots/02.png)
+   ![Screenshot](https://raw.githubusercontent.com/dracula/makehuman/main/screenshots/02.png)
